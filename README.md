@@ -6,7 +6,6 @@
 - 📫  Contate-me no email: ronalderota@gmail.com / 📫-LINKEDLN: Ronalde Gonçalves
 - 📊  Sou muito feliz Atuando na Área dos Dados.
 - 🎮  Gosto Muito do Universo GAME.
-- 📚  Sou ouvinte dos Livros.
 - 🍿  Adoro Assistir um Filminho no Cinema.
 - 😄 Pronome: ELE/DELE
 
