@@ -3,7 +3,7 @@
 - 🔭  Atualmente estou me Graduando em Ciência de Dados.
 - 👔  Área de Atuação- Ciêntista de Dados / Analista de Dados.
 - 🌱  Crescendo meu conhecimento á cada dia.
-- 📫  Contate-me no email: ronalderota@gmail.com / 📫-LINKEDLN: Ronalde Gonçalves
+- 📫  Linkedin : Ronalde Gonçalves 📫EMAIL:ronalderota@gmail.com
 - 📊  Sou muito feliz Atuando na Área dos Dados.
 - 🎮  Gosto Muito do Universo GAME.
 - 🍿  Adoro Assistir um Filminho no Cinema.
