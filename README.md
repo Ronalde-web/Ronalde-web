@@ -7,7 +7,7 @@
 - 📊  Sou muito feliz Atuando na Área dos Dados.
 - 🎮  Gosto Muito do Universo GAME.
 - 🍿  Adoro Assistir um Filminho no Cinema.
-- 😄 Pronome: ELE/DELE
+
 
 
 <div align="center">
