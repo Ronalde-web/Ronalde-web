@@ -1,12 +1,13 @@
 ###  ÓLA! Eu sou o Ronalde Gonçalves 👋
 
-- 🔭  Atualmente estou me Graduando em Ciência de Dados.
-- 👔  Área de Atuação- Ciêntista de Dados / Analista de Dados.
+- 🔭  Graduado em Ciência de Dados.
+- 👔  Área de Atuação- Ciêntista de Dados / Desenvolvedor.
 - 🌱  Crescendo meu conhecimento á cada dia.
 - 📫  Linkedin : Ronalde Gonçalves 📫EMAIL:ronalderota@gmail.com
 - 📊  Sou muito feliz Atuando na Área dos Dados.
 - 🎮  Gosto Muito do Universo GAME.
 - 🍿  Adoro Assistir um Filminho no Cinema.
+- 💻 Atuando como Programador full stack
 
 
 
@@ -16,7 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronalde-web&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Ronalde-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ronalde-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Ronalde-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -24,6 +25,8 @@
   <img align="center" alt="Ronalde-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ronalde-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ronalde-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Ronalde-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Ronalde-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 </div>
   
   ##
