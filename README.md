@@ -1,9 +1,10 @@
-###  ÓLA! Eu sou o Ronalde Gonçalves 👋
+###  ÓLA! Eu sou o Ronalde  👋
 
 - 🔭  Graduado em Ciência de Dados.
 - 👔  Área de Atuação- Ciêntista de Dados / Desenvolvedor.
 - 🌱  Crescendo meu conhecimento á cada dia.
-- 📫  Linkedin : Ronalde Gonçalves 📫EMAIL:ronalderota@gmail.com
+- 📫  Linkedin : Ronalde Gonçalves
+- 📫  EMAIL:ronalderota@gmail.com
 - 📊  Sou muito feliz Atuando na Área dos Dados.
 - 🎮  Gosto Muito do Universo GAME.
 - 🍿  Adoro Assistir um Filminho no Cinema.
